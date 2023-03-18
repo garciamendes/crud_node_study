@@ -1,0 +1,14 @@
+{
+  "name": "crud_node_study",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch --trace-warnings src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
